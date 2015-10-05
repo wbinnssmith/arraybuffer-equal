@@ -2,6 +2,8 @@
 
 Determines if two array buffers contain the exact same content.
 
+[![Build Status](https://travis-ci.org/wbinnssmith/arraybuffer-equal.svg)](https://travis-ci.org/wbinnssmith/arraybuffer-equal)
+
 ## Installation
 
 `npm install --save arraybuffer-equal`
