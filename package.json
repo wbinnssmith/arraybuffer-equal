@@ -1,0 +1,15 @@
+{
+  "name": "arraybuffer-equal",
+  "version": "1.0.0",
+  "description": "Determines if two array buffers contain the exact same content",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Will Binns-Smith <wbinnssmith@gmail.com> (http://wbinnssmith.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.2.1"
+  }
+}
