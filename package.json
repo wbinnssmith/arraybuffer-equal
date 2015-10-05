@@ -6,7 +6,15 @@
   "scripts": {
     "test": "semistandard && node test.js"
   },
-  "keywords": [],
+  "keywords": [
+    "arraybuffers",
+    "arraybuffer",
+    "array buffer",
+    "buffer",
+    "typed arrays",
+    "typed array",
+    "equality"
+  ],
   "author": "Will Binns-Smith <wbinnssmith@gmail.com> (http://wbinnssmith.com)",
   "license": "MIT",
   "devDependencies": {

@@ -1,6 +1,6 @@
 # arraybuffer-equal
 
-Determines if two array buffers contain the exact same content.
+Determines if two array buffers contain the exact same content. Works in node 0.10+ and in the browser using [browserify](https://github.com/substack/node-browserify).
 
 [![Build Status](https://travis-ci.org/wbinnssmith/arraybuffer-equal.svg)](https://travis-ci.org/wbinnssmith/arraybuffer-equal)
 
