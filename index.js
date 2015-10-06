@@ -1,4 +1,8 @@
 module.exports = function arraybufferEqual (buf1, buf2) {
+  if (buf1 === buf2) {
+    return true;
+  }
+
   if (buf1.byteLength !== buf2.byteLength) {
     return false;
   }
