@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "Determines if two array buffers contain the exact same content",
   "main": "index.js",
+  "repository": "wbinnssmith/arraybuffer-equal",
   "scripts": {
     "test": "semistandard && node test.js"
   },
