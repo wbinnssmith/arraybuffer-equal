@@ -1,6 +1,6 @@
 {
   "name": "arraybuffer-equal",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Determines if two array buffers contain the exact same content",
   "main": "index.js",
   "repository": "wbinnssmith/arraybuffer-equal",
